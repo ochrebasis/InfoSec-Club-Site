@@ -18,7 +18,7 @@ const siteMetadata = {
   facebook: '',
   youtube: '',
   linkedin: '',
-  discord: 'https://www.discord.gg/YyZ4aRQBJx',
+  discord: 'https://www.discord.gg/8YKrvbcZyd',
   instagram: '',
   ctftime: 'https://www.ctftime.org',
   homepage: 'https://www.bellevuecollege.edu/organizations/list/infosec-club',
